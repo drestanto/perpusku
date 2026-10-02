@@ -4,7 +4,7 @@ Repo ini berisi bahan untuk soal **merapikan dokumentasi sistem peminjaman buku 
 
 ## Mulai dari Sini
 
-1. **Fork repo ini.** Panduan langkah demi langkah ada di [identitas.md](identitas.md). Isi file itu setelah fork berhasil.
+1. **Buat repo pribadimu dari template ini.** Panduan langkah demi langkah ada di [identitas.md](identitas.md). Isi file itu setelah repo-mu jadi.
 2. **Baca instruksi lengkap** di [SOAL.md](SOAL.md): tugas, aturan, dan cara pengumpulan.
 3. **Baca bahan mentah** di folder [raw/](raw/).
 
@@ -14,7 +14,7 @@ Repo ini berisi bahan untuk soal **merapikan dokumentasi sistem peminjaman buku 
 .
 ├── README.md        (file ini)
 ├── SOAL.md          (instruksi lengkap)
-├── identitas.md     (latihan fork dan data dirimu)
+├── identitas.md     (panduan membuat repo dan data dirimu)
 └── raw/             (bahan mentah, jangan diubah)
     ├── 01-deskripsi-produk.txt
     ├── 02-cara-kerja-teknis.txt

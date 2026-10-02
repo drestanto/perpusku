@@ -37,7 +37,7 @@ Gunakan empat langkah berpikir ini sepanjang pengerjaan. Buktinya akan terlihat 
 
 | # | Langkah | Keluaran |
 |---|---|---|
-| 1 | Fork repo, isi identitas, baca semua teks mentah | `identitas.md`, catatan pribadi |
+| 1 | Buat repo dari template, isi identitas, baca semua teks mentah | `identitas.md`, catatan pribadi |
 | 2 | Membuat issue | Issues |
 | 3 | Modularisasi | `docs/modules/` |
 | 4 | Diagram alur | `docs/diagrams/` |
@@ -47,9 +47,9 @@ Gunakan empat langkah berpikir ini sepanjang pengerjaan. Buktinya akan terlihat 
 
 **Issues dibuat di awal** sebagai daftar temuan pentingmu, lalu **diselesaikan (resolve) di akhir** setelah dokumentasimu rampung.
 
-### Langkah 1: Fork dan pahami
+### Langkah 1: Buat repo dan pahami
 
-Fork repo ini dan isi `identitas.md` (panduannya ada di file itu). Lalu baca kelima file di `raw/` sampai selesai. Selama membaca, catat:
+Buat repo pribadimu (berstatus **private**) dari template ini, tambahkan dosen sebagai collaborator, dan isi `identitas.md`. Panduan langkah demi langkahnya ada di file itu. Lalu baca kelima file di `raw/` sampai selesai. Selama membaca, catat:
 
 - hal yang muncul berulang di beberapa tempat,
 - hal yang tidak jelas atau membingungkan,
@@ -60,7 +60,7 @@ Catatan ini menjadi bahan issue di langkah 2.
 
 ### Langkah 2: Membuat issue
 
-Aktifkan **Issues** di repo hasil fork-mu (Settings → General → Features → Issues), lalu buat **minimal 4 issue** dari temuan yang menurutmu **paling penting**, yaitu temuan yang bisa membuat dokumentasi salah atau menyesatkan jika dibiarkan.
+Pastikan fitur **Issues** aktif di repo-mu (Settings → General → Features → Issues), lalu buat **minimal 4 issue** dari temuan yang menurutmu **paling penting**, yaitu temuan yang bisa membuat dokumentasi salah atau menyesatkan jika dibiarkan.
 
 Setiap issue memuat:
 
@@ -179,13 +179,13 @@ stop
 ```
 
 - Bahasa dokumentasi: **Bahasa Indonesia**.
-- Fork dari repo publik otomatis berstatus publik. Itu tidak masalah untuk tugas ini. Jangan menaruh data pribadi selain yang diminta di `identitas.md`.
+- Repo-mu berstatus **private**: hanya kamu dan dosen (sebagai collaborator) yang bisa melihatnya. Jangan menaruh data pribadi selain yang diminta di `identitas.md`.
 - Jangan mengubah isi folder `raw/`. Folder itu adalah sumber aslimu.
 
 ## 6. Pengumpulan
 
-Kumpulkan **URL repo hasil fork-mu** sebelum batas waktu yang diumumkan di kelas. Pastikan:
+Kumpulkan **URL repo-mu** sebelum batas waktu yang diumumkan di kelas. Pastikan:
 
-- repo bisa dibuka tanpa login (cek lewat jendela incognito),
+- repo-mu berstatus **private** dan dosen sudah kamu tambahkan sebagai collaborator,
 - `identitas.md` terisi,
 - Issues bisa dilihat dan semuanya sudah tertutup.
